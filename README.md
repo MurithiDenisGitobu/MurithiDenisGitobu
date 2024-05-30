@@ -1,34 +1,9 @@
-# Hey there! 👋 I'm Denis Gitobu
-
-Welcome to my GitHub stronghold! Dive into the world of data with me and uncover the hidden opportunities within complex datasets.
-
-## 👀 What I Do
-
-I decode data, turning raw numbers into actionable insights that drive results and fuel success.
-
-## 🌱 What I'm Learning
-
-Currently, I'm sharpening my skills in advanced statistical analysis and mastering the art of data visualization. Always on the hunt for the next challenge!
-
-## 💪 Seeking Collaborations
-
-I thrive on teamwork and innovation. Let's join forces in the data battlefield, where collective insights lead to groundbreaking innovations. Reach out, and let's achieve greatness together!
-
-## 📫 Get In Touch
-
-Feel free to connect at [iamdenis46@gmail.com](mailto:iamdenis46@gmail.com). Open to new challenges and exciting opportunities!
-
-## 😎 Fun Fact
-
-I excel in transforming raw data into strategic brilliance, finding beauty in the precision of patterns and the revelations of statistics.
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=murithidenisgitobu&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=murithidenisgitobu&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=murithidenisgitobu&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 ---
+[![](https://visitcount.itsvg.in/api?id=murithidenisgitobu&icon=0&color=0)](https://visitcount.itsvg.in)
 
-⚡ Fun fact: I have a knack for uncovering hidden opportunities in data, turning insights into actionable strategies that drive success.
-
----
-
-<!---
-MurithiDenisGitobu/MurithiDenisGitobu is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
